@@ -1,5 +1,4 @@
-# tta
-## Text-to-Assistant
+# Text-to-Assistant
 
 This is an entry for the Hackathon Prompt Hacks 2023 hosted at https://prompthacks.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open
 
