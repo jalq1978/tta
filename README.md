@@ -10,6 +10,8 @@ We also explored integrating a TikZ compiler to generate diagram representations
 
 With the right support from Voiceflow, we envision integrating Text-to-Assistant directly into the Voiceflow platform or as a ChatGPT plugin. This integration would enable users to seamlessly switch between automated and block-building voice assistants using a Push-to-Talk button or Prompt bar on the canvas. 🎛️
 
+Future Opportunities includes: Interaction Model Generation and Graphic Interface Generation
+
 Sources: Voiceflow, TikZ, LaTeZ Online (https://latexonline.cc/)
 
 Techniches: Prompt Engineering, Prompt Orchestration, CoT, Few-Shot Prompting
