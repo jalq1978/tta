@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/61599659/235371383-c6f5c6ca-8c28-469a-ba31-e33554b1a6bd.png)
+
 # Text-to-Assistant: Your Conversational AI Assistant Generator 🤖
 Are you new to building voice assistants with Voiceflow? Don't worry, we've got you covered! Introducing Text-to-Assistant, a powerful tool designed to help you take your first steps in creating conversational AI assistants with ease. 🚀
 
