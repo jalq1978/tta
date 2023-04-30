@@ -20,16 +20,17 @@ Simply input your desired assistant, and Text-to-Assistant will provide you with
 🎥 Long Video (4+ Minutes): www.loom.com/share/ebda3319f2fd42a6945df5e5c7fda722
 
 ## How It Works 🧩
-Text-to-Assistant uses a series of building blocks to create conversational AI applications. Each block has its own behavior and can be connected to create the desired flow. The available blocks include:
+Text-to-Assistant uses a series of building blocks to create conversational AI applications. Each block has its own behavior and can be connected to create the desired flow. The available blocks are mapped directly to Voiceflow to facilitate imediate conversion, and include:
 
-Start: The beginning of the application.
-Talk: Presents text or voice.
-Listen: Captures user input (e.g., known options or entire reply).
-Condition: Forks directions based on variable values.
-Set: Defines or alters variable values and states.
-API: Connects to external services and retrieves responses.
-JavaScript: Executes JavaScript code to manipulate variables.
-End: The end of the application.
+* Start: The beginning of the application.
+* Talk: Presents text or voice.
+* Listen: Captures user input (e.g., known options or entire reply).
+* Condition: Forks directions based on variable values.
+* Set: Defines or alters variable values and states.
+* API: Connects to external services and retrieves responses.
+* JavaScript: Executes JavaScript code to manipulate variables.
+* End: The end of the application.
+
 Text-to-Assistant will present the result in a structured format, along with a TikZ diagram to visualize the conversational AI application. 📐
 
 ## Let's Get Started! 🎉
