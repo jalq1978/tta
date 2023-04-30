@@ -2,7 +2,7 @@
 
 As a long time Voiceflow user I known that getting started with building assistant can be a daunting task sometimes. The Text-to-Assistant aims to help users with their first steps. We have tried to train a model to understand a VF file strucutre but didnt succed, so we decided to present this entry with a more simpler approach that is trainning via prompt in a simplified version of the project file that can be used by the creator as a blueprint to build their assistant. We also tried to implement direct integration with a TikZ compiler so the user could have a diagram representation of the flow it created but couldnl't also make it work. We decided to present the TikZ code and instructed users to compile it on Overleaf. 
 
-In the future with the apropriate support from Voiceflow we could build this directly on to the Voiceflow platform or as a ChatGPT plugin.
+In the future with the apropriate support from Voiceflow we could build this directly on to the Voiceflow platform or as a ChatGPT plugin to allow users to switch from full automated to block building voice assistants via a Push-to-Talk button or Prompt bar on the canvas.
 
 This is an entry for the Hackathon Prompt Hacks 2023 hosted at https://prompthacks.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open
 
