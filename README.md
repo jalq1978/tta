@@ -10,16 +10,9 @@ We also explored integrating a TikZ compiler to generate diagram representations
 
 With the right support from Voiceflow, we envision integrating Text-to-Assistant directly into the Voiceflow platform or as a ChatGPT plugin. This integration would enable users to seamlessly switch between automated and block-building voice assistants using a Push-to-Talk button or Prompt bar on the canvas. 🎛️
 
-Sources:
-Voiceflow
-TikZ
-LaTeZ Online (https://latexonline.cc/)
+Sources: Voiceflow, TikZ, LaTeZ Online (https://latexonline.cc/)
 
-Techniches:
-Prompt Engineering
-Prompt Orchestration
-CoT
-Few-Shot Prompting
+Techniches: Prompt Engineering, Prompt Orchestration, CoT, Few-Shot Prompting
 
 ## Hackathon Prompt Hacks 2023 🏆
 Text-to-Assistant is our entry for the Hackathon Prompt Hacks 2023, hosted at prompthacks.devpost.com. Our entry is a Conversational AI assistant generator that can produce instructions for creating voice assistants in just seconds! ⏱️
