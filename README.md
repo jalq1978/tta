@@ -10,7 +10,9 @@ Our entry is a Text to Assistant generator created on Voiceflow with the ability
 
 The user will input what is the assistant that it wants to generate and will recieve the instructions to generate such assistant on Voiceflow with the image the diagram that llustrates the assistant's flow.
 
-https://www.loom.com/share/ebda3319f2fd42a6945df5e5c7fda722
+Short Video (2 Minutes): https://youtu.be/xXLpz6KnIyo
+
+Long Video (4+ Minutes): https://www.loom.com/share/ebda3319f2fd42a6945df5e5c7fda722
 
 ## PROMPT
 
