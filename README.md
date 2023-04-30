@@ -63,3 +63,6 @@ BockChild: null
 
 Create a TikZ diagram for that
 
+Example of a generated diagram: 
+![image](https://user-images.githubusercontent.com/61599659/235348296-8fa4bb11-6fb9-46d6-9c06-59748bd69160.png)
+
