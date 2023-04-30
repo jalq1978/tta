@@ -106,10 +106,5 @@ With both documents as intructions, the user can now create the flow on Voiceflo
 ## Let's Get Started! 🎉
 Ready to create your own conversational AI assistant? Give Text-to-Assistant a try and experience the power of automation and simplicity in voice assistant development. Let's get started! 🌟
 
-![image](https://user-images.githubusercontent.com/61599659/235348296-8fa4bb11-6fb9-46d6-9c06-59748bd69160.png)
-
-*An Example of a Diagram created using our Text-to-Assistant and TikZ*
-
-
 
 
