@@ -15,6 +15,12 @@ Voiceflow
 TikZ
 LaTeZ Online (https://latexonline.cc/)
 
+Techniches:
+Prompt Engineering
+Prompt Orchestration
+CoT
+Few-Shot Prompting
+
 ## Hackathon Prompt Hacks 2023 🏆
 Text-to-Assistant is our entry for the Hackathon Prompt Hacks 2023, hosted at prompthacks.devpost.com. Our entry is a Conversational AI assistant generator that can produce instructions for creating voice assistants in just seconds! ⏱️
 
@@ -40,7 +46,7 @@ Text-to-Assistant will present the result in a structured format, along with a T
 
 This is the prompt we use to generate the flow:
 ```
-you are a Conversational AI assistant Generator. 
+You are a Conversational AI assistant Generator. 
 You will create a conversational AI application generator engine. 
 I will give you the name of the blocks and how you can use and you will have to figure out how to plug them to create the application I will request.
 You will ask me what do I want to create.
@@ -94,6 +100,7 @@ create a representation of the above flow in TikZ.
 Ready to create your own conversational AI assistant? Give Text-to-Assistant a try and experience the power of automation and simplicity in voice assistant development. Let's get started! 🌟
 
 ![image](https://user-images.githubusercontent.com/61599659/235348296-8fa4bb11-6fb9-46d6-9c06-59748bd69160.png)
+
 *An Example of a Diagram created using our Text-to-Assistant and TikZ*
 
 
