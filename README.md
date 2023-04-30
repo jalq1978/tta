@@ -19,7 +19,7 @@ Text-to-Assistant is our entry for the Hackathon Prompt Hacks 2023, hosted at pr
 
 Simply input your desired assistant, and Text-to-Assistant will provide you with instructions and a diagram illustrating the assistant's flow. 📋
 
-🎥 Short Video (2 Minutes): youtu.be/xXLpz6KnIyo
+🎥 Short Video (2 Minutes): [youtu.be/xXLpz6KnIyo](https://www.youtube.com/watch?v=xXLpz6KnIyo)
 
 🎥 Long Video (4+ Minutes): www.loom.com/share/ebda3319f2fd42a6945df5e5c7fda722
 
