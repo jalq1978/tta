@@ -93,9 +93,12 @@ create a representation of the above flow in TikZ.
 
 ## Example ##
 A user might be interested in creating an Assistant to help with Meeting Room reservations. Upon prompting "Create an assistant to be used on a meeting room reservation".
+
 ![image](https://user-images.githubusercontent.com/61599659/235350097-fdf4e04b-02a5-40bc-b3cb-12a97d0cbfa0.png)
 
+
 And here is the image that is generated from the flow.
+
 ![image](https://user-images.githubusercontent.com/61599659/235350107-440da14a-3aaa-4626-b5b8-17f24e8c54a2.png)
 
 With both documents as intructions, the user can now create the flow on Voiceflow.
